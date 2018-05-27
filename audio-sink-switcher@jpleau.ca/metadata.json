@@ -1,0 +1,6 @@
+{
+"name": "Audio Sink Switcher",
+"description": "Sets the default audio output and switch all applications to it",
+"uuid": "audio-sink-switcher@jpleau.ca",
+"shell-version": ["3.28.1"]
+}
