@@ -36,6 +36,8 @@ class AudioOutputSwitcher extends PanelMenu.Button {
                 self._createOutputsSection();
             }
         });
+
+        self._createOutputsSection();
     }
 
     destroy() {
